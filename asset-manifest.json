@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cra-pwa/static/css/main.1b7ac5ff.css",
-    "main.js": "/cra-pwa/static/js/main.54d81a28.js",
+    "main.js": "/cra-pwa/static/js/main.cb8d405b.js",
     "static/js/787.6816d615.chunk.js": "/cra-pwa/static/js/787.6816d615.chunk.js",
     "service-worker.js": "/cra-pwa/service-worker.js",
-    "static/media/logo.svg": "/cra-pwa/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/snakespeareLogo.svg": "/cra-pwa/static/media/snakespeareLogo.0e8b20a95a02262dc201d5c7b7da743f.svg",
     "index.html": "/cra-pwa/index.html",
     "main.1b7ac5ff.css.map": "/cra-pwa/static/css/main.1b7ac5ff.css.map",
-    "main.54d81a28.js.map": "/cra-pwa/static/js/main.54d81a28.js.map",
+    "main.cb8d405b.js.map": "/cra-pwa/static/js/main.cb8d405b.js.map",
     "787.6816d615.chunk.js.map": "/cra-pwa/static/js/787.6816d615.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b7ac5ff.css",
-    "static/js/main.54d81a28.js"
+    "static/js/main.cb8d405b.js"
   ]
 }
